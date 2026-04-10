@@ -1,0 +1,4 @@
+disease,max_gender_gap,max_age_gap,highest_delay_gender,highest_delay_age_group
+cancer,12.462002769739911,22.165981222842916,Male,60+
+diabetes,3.6569405249577365,0.0,Male,<30
+heart,3.2148299622635435,26.313060279305006,Male,60+
